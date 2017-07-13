@@ -7,10 +7,10 @@ _do androids dream of electric sheep?_
 
 -------
 
-**note:** this is a meta-repo for the _oveja eléctrica_ project. each stage / prototype has its own repo with current or archived code, notes, sounds, and whatever else may be related.
+**note:**  
+this is a meta-repo for the _oveja eléctrica_ project. each stage / prototype has its own repo with current or archived code, notes, sounds, and whatever else may be related.
 
-stages / prototypes:
-
+**stages / prototypes**:  
 [oe1:exm](https://github.com/yacosp/oe1)  
 [oe2:restate](https://github.com/yacosp/oe2)  
 [oe3:afol](https://github.com/yacosp/oe3)  
