@@ -1,9 +1,13 @@
 # oveja-electrica
 
 _oveja eléctrica_, an ongoing project with the goal of creating an artificial composer.  
-copyright (c) 2003-2017 Santiago Peresón
+copyright (c) 2003-2017 santiago peresón
 
-_do androids dream of electric sheep?_
+_do androids dream of electric sheep? (p.k.dick)_
+
+_si no hay un sentido que justifique la acción, hagamos algo, _cualquier cosa_, actuemos y veamos después qué pasa, qué sentido aparece (j.sasturain)_
+
+_he had created in passion, and passion isn't sane (r.williams)_
 
 -------
 
